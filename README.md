@@ -1,4 +1,4 @@
-# Random USer App with Create React App
+# Random User App with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
